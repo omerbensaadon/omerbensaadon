@@ -4,6 +4,7 @@ My name is Omer Bensaadon and I am a Sr. PM @ Github working on AI-related speci
 
 I've worked on:
 
+* Copilot for Docs (now Knowledge Bases)
 * Slash commands (type `/` in almost any Markdown surface on GitHub) 
 * Issues
 * Projects
