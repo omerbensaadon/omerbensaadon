@@ -7,9 +7,9 @@ I've worked on:
 * Copilot for Docs (now Knowledge Bases)
 * Slash commands (type `/` in almost any Markdown surface on GitHub) 
 * Issues
-* Projects
-* Tasklists vNext (currently Private Beta)
+* Projects vNext
+* Tasklists vNext (Private Beta, lives on in Sub Issues)
 * GitHub's Platform (APIs, Webhooks, SDKs)
-* etc. etc.
+* other small improvements
 
 If we work together, and you want more information about working with me, check out my Personal User Manual: https://github.com/omerbensaadon/user-manual
