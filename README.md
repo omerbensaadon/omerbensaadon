@@ -15,6 +15,6 @@ as for the site you're reading this on, I've worked on:
 * Projects vNext
 * Tasklists vNext (Private Beta, lives on in Sub Issues)
 * GitHub's Platform (APIs, Webhooks, SDKs)
-* other small but mighty improvements
+* other small improvements
 
 If we work together, and you want more information about working with me, check out my Personal User Manual: https://github.com/omerbensaadon/user-manual
